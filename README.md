@@ -21,7 +21,7 @@ The challenge was to turn complex, unstructured transaction data into a **clear,
 
 ### PhonePe Analysis Report
 
-![image]()
+![image](https://github.com/Tejasd18/PhonePe-End-to-End-Data-Analysis-Interactive-Dashboard/blob/main/Home%20Report.png)
 
 ### All other categorized reports
 
