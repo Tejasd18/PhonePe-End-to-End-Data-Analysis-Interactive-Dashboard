@@ -25,10 +25,10 @@ The challenge was to turn complex, unstructured transaction data into a **clear,
 
 ### All other categorized reports
 
-![image]()
+![image](https://github.com/Tejasd18/PhonePe-End-to-End-Data-Analysis-Interactive-Dashboard/blob/main/Insurance%20Report.png)
 
-![image]()
+![image](https://github.com/Tejasd18/PhonePe-End-to-End-Data-Analysis-Interactive-Dashboard/blob/main/Loans%20Report.png)
 
-![image]()
+![image](https://github.com/Tejasd18/PhonePe-End-to-End-Data-Analysis-Interactive-Dashboard/blob/main/Money%20Transfer%20Report.png)
 
-![image]()
+![image](https://github.com/Tejasd18/PhonePe-End-to-End-Data-Analysis-Interactive-Dashboard/blob/main/Recharge%20%26%20Bills%20Report.png)
