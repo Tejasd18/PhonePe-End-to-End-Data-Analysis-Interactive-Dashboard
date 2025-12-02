@@ -1,5 +1,4 @@
-## Project
-PhonePe – End to End Data Analysis using Power BI
+## PhonePe – End to End Data Analysis using Power BI
 
 ## Problem Statement
 The rapid growth of digital payment platforms like PhonePe has resulted in massive volumes of transaction data being generated daily. However, raw data alone does not provide actionable insights unless it is transformed into meaningful visualizations.
