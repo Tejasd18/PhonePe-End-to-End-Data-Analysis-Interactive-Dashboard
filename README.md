@@ -1,4 +1,4 @@
-## Title
+## Project
 PhonePe – End to End Data Analysis using Power BI
 
 ## Problem Statement
